@@ -1,0 +1,6 @@
+aiogram==3.*
+gspread==5.*
+google-auth==2.*
+python-dotenv
+fastapi
+uvicorn
